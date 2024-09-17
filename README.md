@@ -1,8 +1,8 @@
 ## Hi there, I'm Priscille Mande 👋
 
-# Tools and Technologies I Use
+# Tools and Technologies I Like
 
-Here are some of the tools and technologies that I use in my projects:
+Here are some of the tools and technologies that I use:
 
 <p align="left" dir="auto">
   <a href="https://getbootstrap.com" rel="nofollow">
