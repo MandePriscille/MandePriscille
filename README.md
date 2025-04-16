@@ -2,7 +2,7 @@
 
 ### 💻 Fullstack Developer | Python & React Native Enthusiast
 
-I’m a passionate fullstack developer who loves building clean, responsive, and scalable web & mobile applications. Always eager to learn new technologies and best practices, I focus on delivering performant solutions and delightful user experiences.
+I'm a passionate fullstack developer who loves building clean, responsive, and scalable web & mobile applications. Always eager to learn new technologies and best practices, I focus on delivering performant solutions and delightful user experiences.
 
 ---
 
@@ -60,8 +60,14 @@ I’m a passionate fullstack developer who loves building clean, responsive, and
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriscilleMande&show_icons=true&theme=radical" alt="Priscille's GitHub Stats" height="180px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriscilleMande&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
+  <!-- GitHub Stats Card -->
+  <img src="https://github-readme-stats.vercel.app/api?username=PriscilleMande&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
+  
+  <!-- Streak Stats -->
+  <img src="https://streak-stats.demolab.com/?user=PriscilleMande&theme=radical&hide_border=true" alt="GitHub Streak" height="165"/>
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriscilleMande&layout=compact&theme=radical&hide_border=true" alt="Top Languages" height="165"/>
 </div>
 
 ---
@@ -69,7 +75,11 @@ I’m a passionate fullstack developer who loves building clean, responsive, and
 ### 📈 Contribution Activity
 
 <div align="center">
-  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PriscilleMande&theme=github-compact)](https://github.com/PriscilleMande)
+  <!-- Activity Graph -->
+  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PriscilleMande&theme=github-compact&hide_border=true)](https://github.com/PriscilleMande)
+  
+  <!-- Snake Animation -->
+  ![Contribution Snake](https://github.com/PriscilleMande/PriscilleMande/blob/output/github-contribution-grid-snake.svg)
 </div>
 
 ---
@@ -86,5 +96,4 @@ I’m a passionate fullstack developer who loves building clean, responsive, and
 
 - ✉️ Email: [mandepriscille1@gmail.com](mailto:mandepriscille1@gmail.com)  
 - 🔗 LinkedIn: [Priscille Mande](https://www.linkedin.com/in/priscille-mande-448171279/)  
-- 📱 Phone: +237 682 20 61 25
-
+- 📱 Phone: +237 682 20 61 25
