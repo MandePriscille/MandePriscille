@@ -4,14 +4,6 @@
 
 Je crée des apps web et mobiles modernes. Avec **Python**, **JavaScript**, **Django**, et **React Native**, je code proprement et adore collaborer sur des projets innovants.
 
-🌟 **Ce que je fais :**
-- Apps web/mobile responsives
-- API avec **Django REST Framework**
-- Bases de données (**PostgreSQL**, **SQL**)
-- UI stylées avec **Tailwind CSS**
-
----
-
 ## 🧠 Mes Outils & Technologies
 
 | Langages | Frameworks & Bibliothèques | Outils | Bases de Données | Éditeurs de Code | Bibliothèques d'Icônes |
@@ -51,25 +43,23 @@ Je crée des apps web et mobiles modernes. Avec **Python**, **JavaScript**, **Dj
 
 - **Expense Tracker**  
   App mobile pour gérer ses dépenses avec **React Native**, **NativeWind**, et **FlatList**. Suivi en temps réel des totaux.  
-  🔗 [Dépôt](#) *https://github.com/MandePriscille/Expense-Tracker*
+  🔗 *https://github.com/MandePriscille/Expense-Tracker*
 
 - **Appointment App**  
   Système de rendez-vous fullstack. Backend **Django REST Framework**, frontend **React Native**. Multilingue avec **react-i18next**.  
-  🔗 [Dépôt](#) *(En cours de dev)*
+  🔗 *(En cours de dev)*
 
 - **Chatbot Web**  
   Chatbot interactif avec **Django**, **HTML/CSS/JS**, et API OpenAI. Conversations stockées dans **SQLite**.  
-  🔗 [Dépôt](#) *https://github.com/MandePriscille/Application-de-chatbot*
+  🔗 *https://github.com/MandePriscille/Application-de-chatbot*
 
 ---
 
 ## 🏅 Badges
 
 <div align="center">
-   ![Profile Views](https://komarev.com/ghpvc/?username=PriscilleMande&label=Profile%20views&color=0e75b6&style=flat)  
-  ![Open to Work](https://img.shields.io/badge/-Open%20to%20Work-green?style=flat-square)  
-  ![GitHub User](https://img.shields.io/badge/GitHub-Fullstack_Developer-blue?logo=github)
-
+  <img src="https://img.shields.io/badge/GitHub-Fullstack-blue?logo=github" alt="Fullstack"/>
+  <img src="https://img.shields.io/badge/-Open%20to%20Work-green?style=flat" alt="Open"/>
 </div>
 
 ---
@@ -80,6 +70,6 @@ Je crée des apps web et mobiles modernes. Avec **Python**, **JavaScript**, **Dj
 - ✉️ Email: [mandepriscille1@gmail.com](mailto:mandepriscille1@gmail.com)  
 - 🔗 LinkedIn: [Priscille Mande](https://www.linkedin.com/in/priscille-mande-448171279/)  
 - 📱 Phone: +237 682 20 61 25
-🌐 [Portfolio](#) *(En cours...)*
+- 🌐 [Portfolio](#) *(En cours...)*
 
 Jette un œil à mes dépôts ! 🚀
