@@ -51,23 +51,25 @@ Je crée des apps web et mobiles modernes. Avec **Python**, **JavaScript**, **Dj
 
 - **Expense Tracker**  
   App mobile pour gérer ses dépenses avec **React Native**, **NativeWind**, et **FlatList**. Suivi en temps réel des totaux.  
-  🔗 [Dépôt](#) *(https://github.com/MandePriscille/Expense-Tracker)*
+  🔗 [Dépôt](#) *https://github.com/MandePriscille/Expense-Tracker*
 
 - **Appointment App**  
   Système de rendez-vous fullstack. Backend **Django REST Framework**, frontend **React Native**. Multilingue avec **react-i18next**.  
-  🔗 [Dépôt](#) *(Encour de dev)*
+  🔗 [Dépôt](#) *(En cours de dev)*
 
 - **Chatbot Web**  
   Chatbot interactif avec **Django**, **HTML/CSS/JS**, et API OpenAI. Conversations stockées dans **SQLite**.  
-  🔗 [Dépôt](#) *([Ajoute le lien](https://github.com/MandePriscille/Application-de-chatbot))*
+  🔗 [Dépôt](#) *https://github.com/MandePriscille/Application-de-chatbot*
 
 ---
 
 ## 🏅 Badges
 
 <div align="center">
-  <img src="https://img.shields.io/badge/GitHub-Fullstack-blue?logo=github" alt="Fullstack"/>
-  <img src="https://img.shields.io/badge/-Open%20to%20Work-green?style=flat" alt="Open"/>
+   ![Profile Views](https://komarev.com/ghpvc/?username=PriscilleMande&label=Profile%20views&color=0e75b6&style=flat)  
+  ![Open to Work](https://img.shields.io/badge/-Open%20to%20Work-green?style=flat-square)  
+  ![GitHub User](https://img.shields.io/badge/GitHub-Fullstack_Developer-blue?logo=github)
+
 </div>
 
 ---
@@ -75,9 +77,9 @@ Je crée des apps web et mobiles modernes. Avec **Python**, **JavaScript**, **Dj
 ## 📫 Contact
 
 💬 Envie de coder ensemble ou discuter tech ?  
-📧 [votre.email@example.com]mandepriscille1@gmail.com  
-🔗 [LinkedIn](#) *https://www.linkedin.com/in/priscille-mande-448171279/*  
-🌐 [Portfolio](#) *(Encour...)*
-- 📱 Phone: *+237 682 20 61 25*
+- ✉️ Email: [mandepriscille1@gmail.com](mailto:mandepriscille1@gmail.com)  
+- 🔗 LinkedIn: [Priscille Mande](https://www.linkedin.com/in/priscille-mande-448171279/)  
+- 📱 Phone: +237 682 20 61 25
+🌐 [Portfolio](#) *(En cours...)*
 
 Jette un œil à mes dépôts ! 🚀
