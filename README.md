@@ -1,8 +1,8 @@
 # 👋 Salut, je suis Priscille Mande !
 
-### 💻 Développeuse Fullstack | Fan de Python & React Native
+### 💻 Développeuse Fullstack | Fan de Python & Django
 
-Je crée des apps web et mobiles modernes et user-friendly. Experte en **Python**, **JavaScript**, **Django**, et **React Native**, je code proprement et adore collaborer sur des projets innovants.
+Je crée des apps web et mobiles modernes. Avec **Python**, **JavaScript**, **Django**, et **React Native**, je code proprement et adore collaborer sur des projets innovants.
 
 🌟 **Ce que je fais :**
 - Apps web/mobile responsives
@@ -51,22 +51,21 @@ Je crée des apps web et mobiles modernes et user-friendly. Experte en **Python*
 
 - **Expense Tracker**  
   App mobile pour gérer ses dépenses avec **React Native**, **NativeWind**, et **FlatList**. Suivi en temps réel des totaux.  
-  🔗 [Dépôt](#) *(Ajoute le lien)*
+  🔗 [Dépôt](#) *(https://github.com/MandePriscille/Expense-Tracker)*
 
 - **Appointment App**  
   Système de rendez-vous fullstack. Backend **Django REST Framework**, frontend **React Native**. Multilingue avec **react-i18next**.  
-  🔗 [Dépôt](#) *(Ajoute le lien)*
+  🔗 [Dépôt](#) *(Encour de dev)*
 
 - **Chatbot Web**  
   Chatbot interactif avec **Django**, **HTML/CSS/JS**, et API OpenAI. Conversations stockées dans **SQLite**.  
-  🔗 [Dépôt](#) *(Ajoute le lien)*
+  🔗 [Dépôt](#) *([Ajoute le lien](https://github.com/MandePriscille/Application-de-chatbot))*
 
 ---
 
 ## 🏅 Badges
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=VOTRE_NOM_UTILISATEUR&label=Vues&color=0e75b6&style=flat" alt="Vues"/>
   <img src="https://img.shields.io/badge/GitHub-Fullstack-blue?logo=github" alt="Fullstack"/>
   <img src="https://img.shields.io/badge/-Open%20to%20Work-green?style=flat" alt="Open"/>
 </div>
@@ -76,8 +75,9 @@ Je crée des apps web et mobiles modernes et user-friendly. Experte en **Python*
 ## 📫 Contact
 
 💬 Envie de coder ensemble ou discuter tech ?  
-📧 [votre.email@example.com](mailto:votre.email@example.com)  
-🔗 [LinkedIn](#) *(Ajoute le lien)*  
-🌐 [Portfolio](#) *(Ajoute le lien)*
+📧 [votre.email@example.com]mandepriscille1@gmail.com  
+🔗 [LinkedIn](#) *https://www.linkedin.com/in/priscille-mande-448171279/*  
+🌐 [Portfolio](#) *(Encour...)*
+- 📱 Phone: *+237 682 20 61 25*
 
-Jette un œil à mes dépôts et contacte-moi ! 🚀
+Jette un œil à mes dépôts ! 🚀
