@@ -2,51 +2,28 @@
 
 ### 💻 Développeuse Fullstack | Fan de Python & React Native
 
-Je crée des apps web et mobiles modernes, fluides et user-friendly. Experte en **Python**, **JavaScript**, **Django**, et **React Native**, je code proprement et collabore sur des projets impactants. Toujours partante pour apprendre et innover !
+Je crée des apps web et mobiles modernes et user-friendly. Experte en **Python**, **JavaScript**, **Django**, et **React Native**, je code proprement et adore collaborer sur des projets innovants.
 
 🌟 **Ce que je fais :**
 - Apps web/mobile responsives
-- API robustes avec **Django REST Framework**
+- API avec **Django REST Framework**
 - Bases de données (**PostgreSQL**, **SQL**)
 - UI stylées avec **Tailwind CSS**
 
 ---
 
-## 🧠 Compétences
+## 🧠 Mes Outils & Technologies
 
-### 🖥️ Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-
-### 🛠️ Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-
-### 🗃️ Bases de Données
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-
-### 🔧 Outils
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white)
-![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=flat&logo=sublime-text&logoColor=white)
-![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white)
-
-### 🎨 Icônes
-![FontAwesome](https://img.shields.io/badge/FontAwesome-339AF0?style=flat&logo=fontawesome&logoColor=white)
-![Material Icons](https://img.shields.io/badge/Material_Icons-757575?style=flat&logo=google&logoColor=white)
-![Feather](https://img.shields.io/badge/Feather-2D2D2D?style=flat&logoColor=white)
+| Langages | Frameworks & Bibliothèques | Outils | Bases de Données | Éditeurs de Code | Bibliothèques d'Icônes |
+|----------|----------------------------|--------|------------------|------------------|------------------------|
+| ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) Python | ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) Django | ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) Git | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white) PostgreSQL | ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white) VS Code | ![FontAwesome](https://img.shields.io/badge/FontAwesome-339AF0?style=flat&logo=fontawesome&logoColor=white) FontAwesome |
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) JavaScript | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black) React Native | ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) GitHub | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) MySQL | ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white) PyCharm | ![Material Icons](https://img.shields.io/badge/Material_Icons-757575?style=flat&logo=google&logoColor=white) Material Icons |
+| ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) HTML5 | ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white) Bootstrap | ![Insomnia](https://img.shields.io/badge/Insomnia-5849BE?style=flat&logo=insomnia&logoColor=white) Insomnia | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white) SQLite | ![Sublime Text](https://img.shields.io/badge/Sublime_Text-FF9800?style=flat&logo=sublime-text&logoColor=white) Sublime Text | ![Feather](https://img.shields.io/badge/Feather-2D2D2D?style=flat&logoColor=white) Feather |
+| ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white) CSS3 | ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white) Tailwind CSS | | | | |
 
 ---
 
-## 🚀 Mes Outils & Techs
+## 🚀 Mes Outils Visuels
 
 <p align="left">
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
@@ -61,7 +38,7 @@ Je crée des apps web et mobiles modernes, fluides et user-friendly. Experte en 
   <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
   <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
   <a href="https://www.sqlite.org/"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
-  <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/deviconವಬಿಡಿಗೆ
+  <a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/></a>
   <a href="https://www.jetbrains.com/pycharm/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="pycharm" width="40" height="40"/></a>
   <a href="https://www.sublimetext.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sublime/sublime-original.svg" alt="sublimetext" width="40" height="40"/></a>
   <a href="https://fontawesome.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fontawesome/fontawesome-original.svg" alt="fontawesome" width="40" height="40"/></a>
@@ -73,32 +50,16 @@ Je crée des apps web et mobiles modernes, fluides et user-friendly. Experte en 
 ## 🛠️ Projets Cool
 
 - **Expense Tracker**  
-  App mobile pour gérer ses dépenses. Fait avec **React Native**, **NativeWind**, et **FlatList**. Suivi en temps réel des totaux.  
+  App mobile pour gérer ses dépenses avec **React Native**, **NativeWind**, et **FlatList**. Suivi en temps réel des totaux.  
   🔗 [Dépôt](#) *(Ajoute le lien)*
 
 - **Appointment App**  
-  Système de rendez-vous fullstack. Backend **Django REST Framework**, frontend **React Native**. Support multilingue via **react-i18next**.  
+  Système de rendez-vous fullstack. Backend **Django REST Framework**, frontend **React Native**. Multilingue avec **react-i18next**.  
   🔗 [Dépôt](#) *(Ajoute le lien)*
 
 - **Chatbot Web**  
-  Chatbot interactif avec **Django**, **HTML/CSS/JS**, et API OpenAI. Stockage des conversations dans **SQLite**.  
+  Chatbot interactif avec **Django**, **HTML/CSS/JS**, et API OpenAI. Conversations stockées dans **SQLite**.  
   🔗 [Dépôt](#) *(Ajoute le lien)*
-
----
-
-## 📊 Mes Stats GitHub
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/VOTRE_NOM_UTILISATEUR?template=classic&base=header%2Cactivity%2Ccommunity%2Crepositories&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Europe%2FParis" alt="Stats GitHub" />
-</div>
-
----
-
-## 🧭 Activité GitHub
-
-<div align="center">
-  <img src="https://metrics.lecoq.io/VOTRE_NOM_UTILISATEUR?template=classic&activity=1&activity.limit=5&activity.days=14&activity.filter=all&activity.source=atom" alt="Activité GitHub" />
-</div>
 
 ---
 
