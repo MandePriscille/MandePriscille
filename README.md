@@ -1,51 +1,59 @@
-## 👋 Hi there, I'm Priscille Mande
+## 👋 Hi there, I’m Priscille Mande
 
 ### 💻 Fullstack Developer | Python & React Native Enthusiast
 
-I'm a passionate fullstack developer who loves building clean, responsive, and scalable web & mobile applications. I enjoy working with both frontend and backend technologies, and I'm always exploring new tools and best practices to improve my craft.
+I’m a passionate fullstack developer who loves building clean, responsive, and scalable web & mobile applications. Always eager to learn new technologies and best practices, I focus on delivering performant solutions and delightful user experiences.
 
 ---
 
 ### 🧠 Skills & Technologies
 
 #### 🖥️ Frontend
-- HTML5, CSS3, JavaScript
-- Bootstrap, Tailwind CSS
-- React Native
+- HTML5, CSS3, JavaScript  
+- Bootstrap, Tailwind CSS  
+- React Native  
 
 #### 🛠️ Backend
-- Python, Django
+- Python, Django  
 
 #### 🗃️ Databases
-- MySQL, PostgreSQL, SQLite
+- MySQL, PostgreSQL, SQLite  
 
 #### 🔧 Tools & Platforms
-- Git, GitHub
-- Insomnia / Postman
-- VS Code, PyCharm, Sublime Text
+- Git, GitHub  
+- Insomnia / Postman  
+- VS Code, PyCharm, Sublime Text  
 
 #### 🎨 Libraries & Icons
-- FontAwesome
-- Material Icons
-- Feather Icons
+- FontAwesome  
+- Material Icons  
+- Feather Icons  
 
 ---
 
-### 🚀 Technologies I Work With
+### 🚀 Tech Stack Icons
 
 <p align="left">
-  <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>
-  <a href="https://insomnia.rest/"><img src="https://seeklogo.com/images/I/insomnia-logo-A35E09EB19-seeklogo.com.png" alt="insomnia" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
+  <a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwindcss" width="40" height="40"/></a>
+  <a href="https://www.djangoproject.com/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
+  <a href="https://reactnative.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react-native" width="40" height="40"/></a>
+  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
   <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/></a>
-  <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
   <a href="https://www.sqlite.org/"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/></a>
 </p>
+
+---
+
+### 🏆 Most Used Languages
+- **Python**  
+- **JavaScript**  
+- **HTML** & **CSS**  
 
 ---
 
@@ -58,23 +66,25 @@ I'm a passionate fullstack developer who loves building clean, responsive, and s
 
 ---
 
-### 🧭 GitHub Activity Graph
+### 📈 Contribution Activity
 
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PriscilleMande&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center">
+  [![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PriscilleMande&theme=github-compact)](https://github.com/PriscilleMande)
+</div>
 
 ---
 
 ### 🏅 Badges
 
-![Profile Views](https://komarev.com/ghpvc/?username=PriscilleMande&label=Profile%20views&color=0e75b6&style=flat)
+![Profile Views](https://komarev.com/ghpvc/?username=PriscilleMande&label=Profile%20views&color=0e75b6&style=flat)  
+![Open to Work](https://img.shields.io/badge/-Open%20to%20Work-green?style=flat-square)  
 ![GitHub User](https://img.shields.io/badge/GitHub-Fullstack_Developer-blue?logo=github)
-![Open to Work](https://img.shields.io/badge/-Open%20to%20Work-green?style=flat-square)
 
 ---
 
-### 📫 Let's Connect
+### 📫 Contact Me
 
-💬 I’m always open to collaborate on exciting projects or just chat about tech.  
-📧 Reach me at: _your.email@example.com_  
-🔗 [LinkedIn](https://www.linkedin.com/in/votreprofil) — *(ajoute le lien si tu veux)*
+- ✉️ Email: [mandepriscille1@gmail.com](mailto:mandepriscille1@gmail.com)  
+- 🔗 LinkedIn: [Priscille Mande](https://www.linkedin.com/in/priscille-mande-448171279/)  
+- 📱 Phone: +237 682 20 61 25
 
