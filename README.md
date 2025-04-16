@@ -2,20 +2,36 @@
 
 ### 💻 Fullstack Developer | Python & React Native Enthusiast
 
-I'm a passionate fullstack developer who loves building clean, responsive, and scalable web & mobile applications. I enjoy working with both frontend and backend technologies, and I'm always looking to learn new tools and frameworks.
+I'm a passionate fullstack developer who loves building clean, responsive, and scalable web & mobile applications. I enjoy working with both frontend and backend technologies, and I'm always exploring new tools and best practices to improve my craft.
 
 ---
 
-### 🚀 Languages & Frameworks I Work With
+### 🧠 Skills & Technologies
 
-- **Frontend**: HTML, CSS, JavaScript, Bootstrap, Tailwind CSS, React Native
-- **Backend**: Python, Django
-- **Database Systems**: MySQL, PostgreSQL, SQLite
-- **Version Control**: Git, GitHub
+#### 🖥️ Frontend
+- HTML5, CSS3, JavaScript
+- Bootstrap, Tailwind CSS
+- React Native
+
+#### 🛠️ Backend
+- Python, Django
+
+#### 🗃️ Databases
+- MySQL, PostgreSQL, SQLite
+
+#### 🔧 Tools & Platforms
+- Git, GitHub
+- Insomnia / Postman
+- VS Code, PyCharm, Sublime Text
+
+#### 🎨 Libraries & Icons
+- FontAwesome
+- Material Icons
+- Feather Icons
 
 ---
 
-### 🛠️ Tools & Libraries I Use
+### 🚀 Technologies I Work With
 
 <p align="left">
   <a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
@@ -33,23 +49,32 @@ I'm a passionate fullstack developer who loves building clean, responsive, and s
 
 ---
 
-### 🎨 Libraries & Icons I Love
+### 📊 GitHub Stats
 
-- FontAwesome
-- Material Icons
-- Feather Icons
-
----
-
-### 🧰 Code Editors I Use
-
-- VS Code
-- Sublime Text
-- PyCharm
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=PriscilleMande&show_icons=true&theme=radical" alt="Priscille's GitHub Stats" height="180px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriscilleMande&layout=compact&theme=radical" alt="Top Languages" height="180px"/>
+</div>
 
 ---
 
-### 📫 Let's Connect!
+### 🧭 GitHub Activity Graph
 
-Feel free to reach out if you want to collaborate or just say hello 😊
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PriscilleMande&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+### 🏅 Badges
+
+![Profile Views](https://komarev.com/ghpvc/?username=PriscilleMande&label=Profile%20views&color=0e75b6&style=flat)
+![GitHub User](https://img.shields.io/badge/GitHub-Fullstack_Developer-blue?logo=github)
+![Open to Work](https://img.shields.io/badge/-Open%20to%20Work-green?style=flat-square)
+
+---
+
+### 📫 Let's Connect
+
+💬 I’m always open to collaborate on exciting projects or just chat about tech.  
+📧 Reach me at: _your.email@example.com_  
+🔗 [LinkedIn](https://www.linkedin.com/in/votreprofil) — *(ajoute le lien si tu veux)*
 
