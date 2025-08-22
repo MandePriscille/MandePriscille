@@ -16,11 +16,6 @@
 
 ---
 
-## 📊 Mon activité GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MandePriscille&show_icons=true&theme=radical)
-
----
-
 ## 📊 GitHub Summary
 
 [![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MandePriscille&theme=radical)](https://github.com/MandePriscille)
