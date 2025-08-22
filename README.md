@@ -7,20 +7,20 @@
 ---
 
 ## 🚀 Compétences principales
-- 🐍 Python / Django / taillwind css  / bootstrap / react 
+- 🐍 Python / Django  
 - 🌐 HTML / CSS / JavaScript  
 - 🗄️ PostgreSQL / MySQL  
-- ☁️  API REST  
+- ☁️ Docker / API REST  
 
 ---
 
 ## 📊 Mon activité GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TonNomGithub&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MandePriscille&show_icons=true&theme=radical)
 
 ---
 
 ## 🌍 Graphique personnalisé
-![Snake animation](https://github.com/TonNomGithub/TonNomGithub/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MandePriscille/MandePriscille/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
