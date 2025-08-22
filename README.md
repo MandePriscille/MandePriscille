@@ -18,11 +18,11 @@
 
 ## 📊 GitHub Summary
 
-[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MandePriscille&theme=radical)](https://github.com/MandePriscille)
-[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MandePriscille&theme=radical)](https://github.com/MandePriscille)
-[![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MandePriscille&theme=radical)](https://github.com/MandePriscille)
-[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MandePriscille&theme=radical)](https://github.com/MandePriscille)
-[![Commits per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MandePriscille&theme=radical&utcOffset=1)](https://github.com/MandePriscille)
+[![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MandePriscille&theme=tokyonight)](https://github.com/MandePriscille)
+[![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MandePriscille&theme=tokyonight)](https://github.com/MandePriscille)
+[![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MandePriscille&theme=tokyonight)](https://github.com/MandePriscille)
+[![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MandePriscille&theme=tokyonight)](https://github.com/MandePriscille)
+[![Commits per Day](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MandePriscille&theme=tokyonight&utcOffset=1)](https://github.com/MandePriscille)
 
 ---
 
@@ -31,6 +31,6 @@
 💬 Envie de coder ensemble ou discuter tech ?  
 - ✉️ Email: [mandepriscille1@gmail.com](mailto:mandepriscille1@gmail.com)  
 - 🔗 LinkedIn: [Priscille Mande](https://www.linkedin.com/in/priscille-mande-448171279/)  
-- 📱 Phone: +237 682 20 61 25
+- 📱 Phone: +237 682 20 61 25  
 - 🌐 [Portfolio](#) *(En cours...)*
 
