@@ -2,7 +2,6 @@
 
 💻 Développeuse passionnée par **Django, Python et le développement Web**  
 🚀 J’aime concevoir des applications modernes, sécurisées et évolutives  
-🌱 Actuellement, je travaille sur des projets **multi-tenant avec Django** et de la **gestion de données**  
 
 ---
 
