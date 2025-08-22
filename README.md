@@ -1,6 +1,6 @@
 # 👋 Salut, moi c’est Priscille
 
-💻 Développeuse passionnée par **Django, Python et le développement Web**  
+💻 Développeuse passionnée par **le développement Web et mobile**  
 🚀 J’aime concevoir des applications modernes, sécurisées et évolutives  
 
 ## 🧠 Mes Outils & Technologies
