@@ -4,7 +4,6 @@
 <br/><br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E56CF&center=true&vCenter=true&width=600&lines=Developpeuse+Full-Stack+%F0%9F%92%BB" alt="Typing SVG" />
----
 
 ### 🧠 Outils & Technologies
 
@@ -65,8 +64,6 @@
 ### 📊 GitHub Stats
  
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MandePriscille&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MandePriscille&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=MandePriscille&theme=tokyonight&hide_border=true" />
