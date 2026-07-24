@@ -61,42 +61,23 @@
 
 ---
 
+
 ### 📊 GitHub Stats
-
-<!-- GitHub Stats -->
+ 
 <div align="center">
-  <img 
-    height="165" 
-    src="https://github-readme-stats.vercel.app/api?username=MandePriscille&show_icons=true&theme=transparent&title_color=00D9FF&text_color=FFFFFF&icon_color=00D9FF&hide_border=true&count_private=true" 
-  />
-  
-  <img 
-    height="165" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MandePriscille&layout=compact&theme=transparent&title_color=00D9FF&text_color=FFFFFF&hide_border=true" 
-  />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MandePriscille&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MandePriscille&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MandePriscille&theme=tokyonight&hide_border=true" />
+</div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MandePriscille&theme=tokyonight&no-frame=true&row=1&column=6" />
+</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MandePriscille&theme=tokyo-night&hide_border=true" width="100%" />
 </div>
 
-<!-- GitHub Streak -->
-<div align="center">
-  <img 
-    src="https://github-readme-streak-stats.herokuapp.com/?user=MandePriscille&theme=dark&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=8B949E&hide_border=true" 
-  />
-</div>
-
-<!-- GitHub Trophies -->
-<div align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=MandePriscille&theme=darkhub&no-frame=true&no-bg=true&row=1&column=6" 
-  />
-</div>
-
-<!-- GitHub Activity -->
-<div align="center">
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MandePriscille&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&hide_border=true" 
-    width="100%" 
-  />
-</div>
 
 ---
 
