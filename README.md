@@ -2,9 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20👋,%20I'm%20Priscille&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Développeuse%20Web%20%26%20Mobile&descAlignY=62&descSize=18" width="100%" />
 
-<a href="https://www.linkedin.com/in/priscille-mande-448171279/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 <a href="mailto:mandepriscille1@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -22,11 +19,11 @@
 
 ### 🧑‍💻 À propos de moi
 
-- 🎯 Développeuse passionnée par le **développement Web et mobile**
-- 🚀 J'aime concevoir des applications **modernes, sécurisées et évolutives**
-- 🌱 Actuellement concentrée sur **Django REST Framework** et **React**
-- 💡 Toujours partante pour apprendre de nouvelles technos et collaborer sur des projets
-- 📫 N'hésite pas à me contacter pour coder ensemble ou discuter tech !
+- Développeuse passionnée par le **développement Web et mobile**
+- J'aime concevoir des applications **modernes, sécurisées et évolutives**
+- Actuellement concentrée sur **Django REST Framework** et **Django**
+- Toujours partante pour apprendre de nouvelles technos et collaborer sur des projets
+- N'hésite pas à me contacter pour coder ensemble ou discuter tech !
 
 ---
 
