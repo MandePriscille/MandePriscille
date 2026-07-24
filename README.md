@@ -1,9 +1,8 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20👋,%20I'm%20Priscille&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Développeuse%20Web%20%26%20Mobile&descAlignY=62&descSize=18" width="100%" /> <a href="https://www.linkedin.com/in/priscille-mande-448171279/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:mandepriscille1@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="#"> <img src="https://img.shields.io/badge/Portfolio-6E56CF?style=for-the-badge&logo=vercel&logoColor=white" /> </a>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20%F0%9F%91%8B%2C%20I%27m%20Priscille&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Developpeuse%20Web%20%26%20Mobile&descAlignY=62&descSize=18" width="100%" /> <a href="https://www.linkedin.com/in/priscille-mande-448171279/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:mandepriscille1@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="#"> <img src="https://img.shields.io/badge/Portfolio-6E56CF?style=for-the-badge&logo=vercel&logoColor=white" /> </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E56CF&center=true&vCenter=true&width=600&lines=D%C3%A9veloppeuse+Full-Stack+%F0%9F%92%BB;Django+%2B+React+%3D+%E2%9D%A4%EF%B8%8F;J'aime+construire+des+apps+propres+et+s%C3%BBres;Toujours+en+train+d'apprendre+%F0%9F%9A%80" alt="Typing SVG" /> </div>
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6E56CF&center=true&vCenter=true&width=600&lines=Developpeuse+Full-Stack+%F0%9F%92%BB;Django+%2B+React+%3D+%E2%9D%A4%EF%B8%8F;J%27aime+construire+des+apps+propres+et+surs;Toujours+en+train+d%27apprendre+%F0%9F%9A%80" alt="Typing SVG" /> </div>
 ---
 
 ### 🧑‍💻 À propos de moi
